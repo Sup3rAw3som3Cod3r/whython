@@ -26,6 +26,15 @@ def unround_integer(integer):
     unroundedness = random.uniform(0.0000000001, 0.999999999)
     return float(integer) + 0.5 - unroundedness
 
+def open_file(file):
+    opened_file = open(file)
+
+def does_file_exist(file):
+    file_to_check = open(file, 'w')
+    file_to_check.close()
+    return True
+
+print(f'Whython has been imported')
 print(f'Why are you doing this to yourself?')
 print(f'Please never use this library.')
 print()
