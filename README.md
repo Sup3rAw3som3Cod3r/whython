@@ -45,3 +45,13 @@ this function is for filling any pesky blank lines in a function
 unround_integer(integer)
 ``
 this function converts a rounded integer to an unrounded float
+
+``
+open_file(file)
+``
+this function opens the given file
+
+``
+does_file_exist(file)
+``
+this function checks if a given file exists
