@@ -1,5 +1,6 @@
-# pain: the python library
-Please just don't use this python library
+# Whython: the python library designed to cause pain
+
+Please just don't use this python library, it exists as a joke and is not meant to be taken seriously
 
 
 functions currently available:
