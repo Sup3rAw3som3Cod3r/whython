@@ -49,9 +49,25 @@ this function converts a rounded integer to an unrounded float
 ``
 open_file(file)
 ``
-this function opens the given file
+this function opens the given file (and screws you over)
 
 ``
 does_file_exist(file)
 ``
-this function checks if a given file exists
+this function checks if a given file exists (and screws you over)
+
+
+``
+break_things()
+``
+this function drops your code on the floor
+
+``
+get_valid_input(question_to_ask_the_user)
+``
+this function gets an input from the user
+
+``
+nested_list()
+``
+this function makes a nested list
